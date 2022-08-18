@@ -15,6 +15,7 @@ export default function Home() {
         <h1 className='text-6xl text-center font-bold'>
           Welcome to Conventional Commit Again
         </h1>
+        <p className='text-center p-3 text-base'>this is feature 1</p>
       </main>
     </div>
   );
