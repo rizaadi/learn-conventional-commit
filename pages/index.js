@@ -16,6 +16,7 @@ export default function Home() {
           Welcome to Conventional Commit Again
         </h1>
         <p className='text-center p-3 text-base'>this is feature 1</p>
+        <p className='text-center p-3 text-base'>this is feature 2</p>
       </main>
     </div>
   );
