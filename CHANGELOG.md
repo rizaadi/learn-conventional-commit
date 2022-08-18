@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/rizaadi/learn-conventional-commit/compare/v1.0.0...v1.1.0) (2022-08-18)
+
+
+### Features
+
+* add feature 1 ([1cb862f](https://github.com/rizaadi/learn-conventional-commit/commit/1cb862f77aafe0c9c428c0678f93ad6f9500167f))
+* add feature 2 ([9465d52](https://github.com/rizaadi/learn-conventional-commit/commit/9465d5234c1923a974949c973f6f126a8d607e20))
+
 ## 1.0.0 (2022-08-18)
 
 
