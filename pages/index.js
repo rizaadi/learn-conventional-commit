@@ -12,12 +12,13 @@ export default function Home() {
       </Head>
 
       <main className='container mx-auto '>
-        <h1 className='text-6xl text-center font-bold'>
+        <h1 className='text-6xl font-bold text-center'>
           Welcome to Conventional Commit Again
         </h1>
-        <p className='text-center p-3 text-base'>this is feature 1</p>
-        <p className='text-center p-3 text-xl'>this is feature 2</p>
-        <p className='text-center p-3 text-xl'>this is feature 3</p>
+        <p className='p-3 text-base text-center'>this is feature 1</p>
+        <p className='p-3 text-xl text-center'>this is feature 2</p>
+        <p className='p-3 text-xl text-center'>this is feature 3</p>
+        <p className='p-3 text-xl text-center'>test merge</p>
       </main>
     </div>
   );
