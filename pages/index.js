@@ -18,6 +18,7 @@ export default function Home() {
         <p className='p-3 text-base text-center'>this is feature 1</p>
         <p className='p-3 text-xl text-center'>this is feature 2</p>
         <p className='p-3 text-xl text-center'>this is feature 3</p>
+        <p className='p-3 text-xl text-center'>test bash zsh</p>
       </main>
     </div>
   );
